@@ -1,2 +1,2 @@
 # Private_Ethereum_Blockchain
-Information of how to set private ethereum on google cloud
+Information about setting private ethereum blockchain on google compute engine
