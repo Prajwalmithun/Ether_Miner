@@ -5,13 +5,15 @@
 2. Inside that directory add the CustomGenesis.json file.
 
 3. Creating a directory to store the complete blockchain
+ ```
   $ geth --datadir ./Ethblockchain --networkid 8888
-  
+ ```
 4. Open another instance of the terminal and navigate to private-eth directory.
 
 5. Attach geth.ipc to the blockchain directory to communicate with the ethereum blockhain.
-  $ geth attach Ethblockchain/geth.ipc
-  
+ ```
+ $ geth attach Ethblockchain/geth.ipc
+ ```
 6. Create account and start mining.
   Commands:
   a)Create an account : personal.newAccount()
