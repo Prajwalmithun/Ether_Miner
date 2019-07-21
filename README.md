@@ -8,13 +8,15 @@
  ```
   $ geth --datadir ./Ethblockchain --networkid 8888
  ```
- ![](images/image1.jpg)
+ ![](images/image2.jpg)
 4. Open another instance of the terminal and navigate to private-eth directory.
 
 5. Attach geth.ipc to the blockchain directory to communicate with the ethereum blockhain.
  ```
  $ geth attach Ethblockchain/geth.ipc
  ```
+ ![](images/image1.jpg)
+ 
 6. Create account and start mining.
   Commands:
   a)Create an account : personal.newAccount()
