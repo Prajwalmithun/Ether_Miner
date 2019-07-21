@@ -8,6 +8,7 @@
  ```
   $ geth --datadir ./Ethblockchain --networkid 8888
  ```
+ ![](images/image1.jpg)
 4. Open another instance of the terminal and navigate to private-eth directory.
 
 5. Attach geth.ipc to the blockchain directory to communicate with the ethereum blockhain.
