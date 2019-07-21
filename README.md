@@ -19,4 +19,7 @@
   b)Check the balance : eth.getBalance("your_password" a long string usually)
   c)Stop mining : miner.stop()
   
+7. Once you start mining you can see the ethers rising in your wallets.Wala you are Richie Rich now.Those are fake ethers haha
+.Because its a private ethereum network same happens in the real public ethereum network as well. 
+  
  Note : Save the password since it is required for checking the balance after mining.  
